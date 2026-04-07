@@ -1,6 +1,7 @@
 # Project Operations Dashboard (Excel)
+## Quick Summary
 
-A professional-grade Excel dashboard simulating real-world project coordination, the administrative, billing, documentation, inventory, and workflow support responsibilities commonly found in commercial construction and low-voltage/network infrastructure environments.
+An Excel-based system that simulates real-world project operations, including inventory tracking, billing, documentation control, and workflow coordination — designed to improve visibility, accuracy, and efficiency.
 
 ## 🔗 Case Study
 [View Case Study](Project_Operations_Case_Study_Premium.pdf)
@@ -8,7 +9,8 @@ A professional-grade Excel dashboard simulating real-world project coordination,
 ## 📊 Dashboard File
 [Download Excel Dashboard](project-operations-dashboard-excel.xlsx)
 
-This project was created as a portfolio piece to demonstrate operational thinking, project coordination, Excel reporting, and workflow visibility in a role similar to an Administrative Assistant / Project Coordinator position.
+
+This project was created as a portfolio piece to demonstrate operational thinking, project coordination, Excel reporting, and workflow visibility in a role similar to an Administrative Assistant / Project Coordinator position. A professional-grade Excel dashboard simulating real-world project coordination, the administrative, billing, documentation, inventory, and workflow support responsibilities commonly found in commercial construction and low-voltage/network infrastructure environments.
 
 ---
 
@@ -183,6 +185,19 @@ This project highlights my ability to:
 
 ---
 
+## Why This Matters for Employers
+
+This project reflects how I approach real-world operational challenges by:
+
+- Creating structured systems to improve visibility and organization  
+- Ensuring accuracy in data tracking and reporting  
+- Supporting coordination between teams and workflows  
+- Reducing delays through proactive monitoring and alerts  
+
+This is directly applicable to roles involving inventory management, logistics, and project coordination.
+
+---
+
 ## Portfolio Context
 
 This project was built as part of my professional portfolio to demonstrate readiness for roles involving:
@@ -233,5 +248,5 @@ This project was built as part of my professional portfolio to demonstrate readi
 Atlanta, GA  
 Data Science | Operations | Technical Project Support
 
-GitHub: [(https://github.com/amoheric/)]  
-LinkedIn: [(https://www.linkedin.com/in/amoheric/)]
+GitHub: https://github.com/amoheric  
+LinkedIn: https://www.linkedin.com/in/amoheric/

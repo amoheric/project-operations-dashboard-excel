@@ -6,7 +6,7 @@ A professional-grade Excel dashboard simulating real-world project coordination,
 [View Case Study](Project_Operations_Case_Study_Premium.pdf)
 
 ## 📊 Dashboard File
-[Download Excel Dashboard](LINX_Project_Operations_Dashboard_Upgraded.xlsx)
+[Download Excel Dashboard](project-operations-dashboard-excel.xlsx)
 
 This project was created as a portfolio piece to demonstrate operational thinking, project coordination, Excel reporting, and workflow visibility in a role similar to an Administrative Assistant / Project Coordinator position.
 

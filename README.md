@@ -9,6 +9,10 @@ An Excel-based system that simulates real-world project operations, including in
 ## 📊 Dashboard File
 [Download Excel Dashboard](project-operations-dashboard-excel.xlsx)
 
+## 🎞️ Slides
+[Slides](https://project-operations-billi-egougvq.gamma.site/)
+
+---
 
 This project was created as a portfolio piece to demonstrate operational thinking, project coordination, Excel reporting, and workflow visibility in a role similar to an Administrative Assistant / Project Coordinator position. A professional-grade Excel dashboard simulating real-world project coordination, the administrative, billing, documentation, inventory, and workflow support responsibilities commonly found in commercial construction and low-voltage/network infrastructure environments.
 

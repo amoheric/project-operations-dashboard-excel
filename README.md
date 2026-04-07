@@ -1,6 +1,12 @@
-# project-operations-dashboard-excel
+# Project Operations Dashboard (Excel)
 
-An Excel-based project operations dashboard built to simulate the administrative, billing, documentation, inventory, and workflow support responsibilities commonly found in commercial construction and low-voltage/network infrastructure environments.
+A professional-grade Excel dashboard simulating real-world project coordination, the administrative, billing, documentation, inventory, and workflow support responsibilities commonly found in commercial construction and low-voltage/network infrastructure environments.
+
+## 🔗 Case Study
+[View Case Study](Project_Operations_Case_Study_Premium.pdf)
+
+## 📊 Dashboard File
+[Download Excel Dashboard](LINX_Project_Operations_Dashboard_Upgraded.xlsx)
 
 This project was created as a portfolio piece to demonstrate operational thinking, project coordination, Excel reporting, and workflow visibility in a role similar to an Administrative Assistant / Project Coordinator position.
 
@@ -219,10 +225,6 @@ This project was built as part of my professional portfolio to demonstrate readi
 ### Workflow Pipeline
 ![Workflow Pipeline](screenshots/workflow-pipeline.png)
 
----
-
-## Case Study
-[View Case Study](Project_Operations_Case_Study_Premium.pdf)
 ---
 
 ## Author

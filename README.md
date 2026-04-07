@@ -233,5 +233,5 @@ This project was built as part of my professional portfolio to demonstrate readi
 Atlanta, GA  
 Data Science | Operations | Technical Project Support
 
-GitHub: [Add your GitHub link]  
-LinkedIn: [Add your LinkedIn link]
+GitHub: [(https://github.com/amoheric/)]  
+LinkedIn: [(https://www.linkedin.com/in/amoheric/)]

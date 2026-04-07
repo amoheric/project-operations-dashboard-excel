@@ -211,19 +211,19 @@ This project was built as part of my professional portfolio to demonstrate readi
 ## Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](screenshots/dashboard-overview.png)
+![Dashboard Overview](assets/dashboard-overview.png)
 
 ### Billing Tracker
-![Billing Tracker](screenshots/billing-tracker.png)
+![Billing Tracker](assets/billing-tracker.png)
 
 ### Document Control
-![Document Control](screenshots/document-control.png)
+![Document Control](assets/document-control.png)
 
 ### Inventory Tracker
-![Inventory Tracker](screenshots/inventory-tracker.png)
+![Inventory Tracker](assets/inventory-tracker.png)
 
 ### Workflow Pipeline
-![Workflow Pipeline](screenshots/workflow-pipeline.png)
+![Workflow Pipeline](assets/workflow-pipeline.png)
 
 ---
 
